@@ -1,0 +1,5 @@
+url: "https://www.fencing-pentathlon.fi/liitto/tapahtumat/?filter%5B%5D=tapahtumatyyppi-1&start=&end=&submit=hae"
+element: "item item-event[date,item-title]"
+template: "kisa.docx"
+template_type: "docx"
+file_save_path: ""
